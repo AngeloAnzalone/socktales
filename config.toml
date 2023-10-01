@@ -1,5 +1,5 @@
 baseURL = "https://angeloanzalone.github.io/socktales.github.io/"
 languageCode = "en-us"
 title = "weeeeeeee"
-theme="papermod"
+theme="PaperMod"
 publishDir = "docs"
