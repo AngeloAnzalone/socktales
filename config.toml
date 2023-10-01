@@ -3,5 +3,4 @@ languageCode = "en-us"
 title = "weeeeeeee"
 theme        = "hello-friend-ng"
 paginate     = 10
-publishDir = "docs"
 
