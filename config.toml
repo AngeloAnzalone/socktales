@@ -1,4 +1,4 @@
 baseURL = "https://socktales.github.io/"
 title = "O11y Cloud.com"
-theme="PaperMod"
+theme="LoveIt"
 publishDir = "docs"
