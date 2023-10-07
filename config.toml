@@ -1,4 +1,4 @@
-baseURL = "https://angeloanzalone.github.io/socktales.github.io/"
+baseURL = "https://socktales.github.io/"
 title = "O11y Cloud.com"
 theme="PaperMod"
 publishDir = "docs"
