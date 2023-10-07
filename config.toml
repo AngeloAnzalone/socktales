@@ -1,4 +1,4 @@
 baseURL = "https://socktales.github.io/"
 title = "Blog SockTales"
-theme="LoveIt"
+theme="PaperMod"
 publishDir = "docs"
